@@ -1,6 +1,34 @@
 <h1 align="center">Hi 👋, I'm Saketh Akella</h1>
 <h3 align="center">Turning Code into Reality, from IoT Nodes to Game Worlds — On Field and Off.</h3>
+<!-- About Me Section for GitHub README -->
 
+<h2>👋 About Me</h2>
+<p>
+  I'm <strong>Akella Satya Hanuma Saketh</strong>, an undergrad in <strong>Electronics and Electrical Communication Engineering @ IIT Kharagpur</strong>. I love building things — whether it's coding up full-stack web apps, tinkering with <strong>IoT hardware using LoRa</strong>, or crafting LAN games in <strong>Unreal Engine</strong>.
+</p>
+
+<h3>⚡ What I Do:</h3>
+<ul>
+  <li>🛠️ Working on <strong>LoRaWAN-based IoT networks</strong> using Seeed Studio LoRa-E5 boards</li>
+  <li>🌐 Built and maintain the <a href="http://cgsiitkgp.tech" target="_blank">Computer Graphics Society Website</a></li>
+  <li>🎮 Developing multiplayer games (like Prop Hunt–style hide & seek) in <strong>Unreal Engine</strong></li>
+  <li>🖥️ Frontend & backend web development using <strong>HTML, CSS, JavaScript, and Node.js</strong></li>
+  <li>📱 Exploring smart academic tools, digital approval systems & KGP campus tech</li>
+</ul>
+
+<h3>🧠 Interests:</h3>
+<ul>
+  <li>Embedded Systems & IoT</li>
+  <li>Game Development</li>
+  <li>Full-stack Web Dev</li>
+  <li>Creative tech for productivity and automation</li>
+  <li>Blending hardware and software to solve real-world problems</li>
+</ul>
+
+<h3>🏑 Fun Fact:</h3>
+<p>
+  When I’m not coding, you’ll probably find me on the hockey field 🏑 — balancing bytes with breakaways.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saketh akella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saketh akella" height="30" width="40" /></a>
