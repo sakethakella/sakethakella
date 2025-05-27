@@ -4,7 +4,7 @@
 
 <h2>👋 About Me</h2>
 <p>
-  I'm <strong>Akella Satya Hanuma Saketh</strong>, an undergrad in <strong>Electronics and Electrical Communication Engineering @ IIT Kharagpur</strong>. I love building things — whether it's coding up full-stack web apps, <strong>VLSI</strong> design tinkering with <strong>IoT hardware and Firmware</strong> design, or crafting LAN games in <strong>Unreal Engine</strong>.
+ I'm <strong>Akella Satya Hanuma Saketh</strong>, an undergrad in <strong>Electronics and Electrical Communication Engineering @ IIT Kharagpur</strong>. I love building things — whether it's coding up full-stack web apps, tinkering with <strong>Firmware Development</strong>, exploring <strong>Signal Processing</strong> algorithms, or diving into <strong>ASIC design for Analog and Mixed-Signal VLSI</strong>.
 </p>
 
 <h3>⚡ What I Do:</h3>
