@@ -4,13 +4,15 @@
 
 <h2>👋 About Me</h2>
 <p>
- I'm <strong>Akella Satya Hanuma Saketh</strong>, an undergrad in <strong>Electronics and Electrical Communication Engineering @ IIT Kharagpur</strong>. I love building things — whether it's coding up full-stack web apps, tinkering with <strong>Firmware Development</strong>, exploring <strong>Signal Processing</strong> algorithms, or diving into <strong>ASIC design for Analog and Mixed-Signal VLSI</strong>.
+I'm <strong>Akella Satya Hanuma Saketh</strong>, an undergrad in <strong>Electronics and Electrical Communication Engineering @ IIT Kharagpur</strong>.  
+I love building things — whether it's coding up full-stack web apps, tinkering with firmware, exploring signal processing algorithms, training ML models, or diving into ASIC design for Analog and Mixed-Signal VLSI</p>.
 </p>
 
 <h3>⚡ What I Do:</h3>
 <ul>
   <li>📡 Exploring <strong>Signal Processing techniques</strong> and communication systems</li>
   <li>🔍 Learning and implementing concepts in <strong>VLSI Design</strong> — RTL design, simulation, and basic ASIC flow</li>
+  <li>🧠 Applying machine learning to real-world problems in signal, sensor, and behavior data </li>
   <li>🌐 Built and maintain the <a href="http://cgsiitkgp.tech" target="_blank">Computer Graphics Society Website</a></li>
   <li>🎮 Developing multiplayer games (like Prop Hunt–style hide & seek) in <strong>Unreal Engine</strong></li>
   <li>🖥️ Frontend & backend web development using <strong>HTML, CSS, JavaScript, React.js and Node.js</strong></li>
@@ -21,6 +23,7 @@
 <ul>
   <li>VLSI and signal processing</li>
   <li>Embedded Systems</li>
+  <li>Machine Learning</li>
   <li>Game Development</li>
   <li>Full-stack Web Dev</li>
   <li>Creative tech for productivity and automation</li>
