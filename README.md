@@ -32,7 +32,7 @@ I love building things — whether it's coding up full-stack web apps, tinkering
 
 <h2>🔗 Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/saketh-akella" target="_blank">
+  <a href="https://www.linkedin.com/in/saketh-akella-aa7886270/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
