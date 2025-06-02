@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saketh Akella</h1>
-<h3 align="center">Turning Code into Reality, from IoT Nodes to Game Worlds — On Field and Off.</h3>
+<h3 align="center">Turning Code into Reality</h3>
 <!-- About Me Section for GitHub README -->
 
 <h2>👋 About Me</h2>
