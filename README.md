@@ -1,82 +1,203 @@
-<h1 align="center">Hi 👋, I'm Saketh Akella</h1>
-<h3 align="center">Turning Code into Reality</h3>
-<!-- About Me Section for GitHub README -->
+# 👨‍💻 Saketh Akella
+### Electronics & Electrical Communication Engineering Student | Full-Stack Developer | VLSI Enthusiast
 
-<h2>👋 About Me</h2>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Turning+Code+into+Reality;VLSI+%26+Signal+Processing+Enthusiast;Full-Stack+Web+Developer;Machine+Learning+Explorer)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saketh-akella-aa7886270/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thesaketh07)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakethakella)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm **Akella Satya Hanuma Saketh**, an undergraduate student pursuing **Electronics and Electrical Communication Engineering** at **IIT Kharagpur**. I'm passionate about bridging the gap between hardware and software, creating innovative solutions that span from low-level VLSI design to high-level web applications.
+
+My journey in technology is driven by curiosity and a desire to solve real-world problems through code, circuits, and creativity. I believe in the power of interdisciplinary approaches, combining signal processing, machine learning, and full-stack development to build meaningful projects.
+
+---
+
+## 💼 What I Do
+
+### 🔬 **Research & Development**
+- **Signal Processing**: Exploring advanced algorithms for communication systems and data analysis
+- **VLSI Design**: RTL design, simulation, and ASIC flow implementation for Analog and Mixed-Signal circuits
+- **Machine Learning**: Applying ML techniques to signal processing, sensor data, and behavioral analytics
+
+### 🌐 **Web Development**
+- **Full-Stack Solutions**: End-to-end web application development
+- **Project Leadership**: Built and maintain the [Computer Graphics Society Website](http://cgsiitkgp.tech)
+- **Modern Technologies**: Leveraging React.js, Node.js, and modern web frameworks
+
+### 🎮 **Game Development**
+- **Unreal Engine**: Developing immersive multiplayer experiences
+- **Interactive Systems**: Creating engaging hide-and-seek style games with complex mechanics
+
+### 🏛️ **Campus Innovation**
+- **Digital Solutions**: Developing smart academic tools and digital approval systems
+- **Campus Technology**: Contributing to IIT Kharagpur's technological ecosystem
+
+---
+
+## 🎯 Core Interests
+
+<table>
+<tr>
+<td>
+
+**🔧 Hardware**
+- VLSI Design & Verification
+- Embedded Systems
+- Signal Processing
+- Circuit Design
+
+</td>
+<td>
+
+**💻 Software**
+- Full-Stack Development
+- Machine Learning
+- Game Development
+- Mobile Applications
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🔬 Research Areas**
+- Digital Signal Processing
+- Communication Systems
+- ASIC Design Flow
+- Hardware-Software Co-design
+
+</td>
+<td>
+
+**🚀 Innovation**
+- IoT Solutions
+- Automation Systems
+- Creative Technology
+- Real-world Problem Solving
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
+### **Programming Languages**
 <p>
-I'm <strong>Akella Satya Hanuma Saketh</strong>, an undergrad in <strong>Electronics and Electrical Communication Engineering @ IIT Kharagpur</strong>.  
-I love building things — whether it's coding up full-stack web apps, tinkering with firmware, exploring signal processing algorithms, training ML models, or diving into ASIC design for Analog and Mixed-Signal VLSI</p>.
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
 </p>
 
-<h3>⚡ What I Do:</h3>
-<ul>
-  <li>📡 Exploring <strong>Signal Processing techniques</strong> and communication systems</li>
-  <li>🔍 Learning and implementing concepts in <strong>VLSI Design</strong> — RTL design, simulation, and basic ASIC flow</li>
-  <li>🧠 Applying machine learning to real-world problems in signal, sensor, and behavior data </li>
-  <li>🌐 Built and maintain the <a href="http://cgsiitkgp.tech" target="_blank">Computer Graphics Society Website</a></li>
-  <li>🎮 Developing multiplayer games (like Prop Hunt–style hide & seek) in <strong>Unreal Engine</strong></li>
-  <li>🖥️ Frontend & backend web development using <strong>HTML, CSS, JavaScript, React.js and Node.js</strong></li>
-  <li>📱 Exploring smart academic tools, digital approval systems & KGP campus tech</li>
-</ul>
-
-<h3>🧠 Interests:</h3>
-<ul>
-  <li>VLSI and signal processing</li>
-  <li>Embedded Systems</li>
-  <li>Machine Learning</li>
-  <li>Game Development</li>
-  <li>Full-stack Web Dev</li>
-  <li>Creative tech for productivity and automation</li>
-  <li>Blending hardware and software to solve real-world problems</li>
-</ul>
-
-<h2>🔗 Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/saketh-akella-aa7886270/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/thesaketh07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+### **Frontend Development**
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-<br/>
-
-<h2>🛠️ Languages & Tools</h2>
-<p align="center">
-  <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-
-  <!-- DB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
+### **Backend Development**
+<p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 </p>
 
-<br/>
-
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakethakella&show_icons=true&locale=en&layout=compact" alt="sakethakella" />
+### **Machine Learning & Data Science**
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 </p>
+
+### **Hardware & Embedded**
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logo=v&logoColor=white" alt="Verilog"/>
+</p>
+
+### **Game Development & 3D**
+<p>
+<img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=sakethakella&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakethakella&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethakella&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🎓 Education & Experience
+
+**🏛️ Indian Institute of Technology, Kharagpur**  
+*Bachelor of Technology - Electronics and Electrical Communication Engineering*  
+*Expected Graduation: 2026*
+
+**Key Coursework**: Digital Signal Processing, VLSI Design, Communication Systems, Embedded Systems, Machine Learning, Data Structures & Algorithms
+
+---
+
+## 📈 Current Focus
+
+- 🔬 **Research**: Advanced VLSI design techniques and signal processing algorithms
+- 🌐 **Development**: Scaling web applications and exploring new frontend technologies
+- 🎮 **Innovation**: Creating immersive gaming experiences with Unreal Engine
+- 🤖 **Learning**: Deep diving into machine learning applications in signal processing
+
+---
+
+## 🤝 Let's Connect
+
+I'm always excited to collaborate on innovative projects, discuss emerging technologies, or share insights about VLSI design, web development, and everything in between. Whether you're interested in:
+
+- 🔧 Hardware-software integration projects
+- 🌐 Full-stack web development
+- 🎮 Game development collaborations
+- 🔬 Signal processing research
+- 🤖 Machine learning applications
+
+Feel free to reach out! I believe the best innovations come from diverse perspectives and collaborative efforts.
+
+---
+
+<div align="center">
+
+**💡 "Innovation distinguishes between a leader and a follower." - Steve Jobs**
+
+*Building the future, one commit at a time.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=sakethakella&color=brightgreen&style=flat)
+
+</div>
